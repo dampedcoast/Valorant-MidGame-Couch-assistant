@@ -1,5 +1,5 @@
 # Valorant-MidGame-Couch-assistant
-# Sky Final: VALORANT Decision Support AI
+
 
 An AI-powered decision support system for professional VALORANT players and coaches. It provides real-time tactical advice (Mid-Round) using LLMs, speech-to-text, and text-to-speech.
 
