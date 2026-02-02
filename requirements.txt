@@ -1,0 +1,17 @@
+langchain
+langchain-community
+langchain-core
+ollama
+openai-whisper
+SpeechRecognition
+sounddevice
+PyAudio
+kokoro-onnx
+onnxruntime
+torch
+torchvision
+pillow
+mss
+opencv-python
+requests
+websockets

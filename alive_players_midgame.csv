@@ -1,0 +1,424 @@
+series_id,game_id,team_name,side,player_name,alive,participationStatus,agent_raw,hp_bucket,armor_bucket,pos_x,pos_y,region_rc,x_band,y_band,pos_quadrant,weapon_current
+2629390,719f343f-e8d5-44de-98c5-e66f04d0f5ab,NRG,attacker,Marved,True,active,viper,damaged,none,2302.81934,5278.53564,R7C1,B1,B7,NW,Operator
+2629390,cd0ede88-b842-4de2-ae9f-bb8776a99437,NRG,defender,Demon1,True,active,jett,full,heavy,5926.20898,-7948.6958,R1C6,B6,B1,SE,Sheriff
+2629390,cd0ede88-b842-4de2-ae9f-bb8776a99437,NRG,defender,Marved,True,active,omen,full,heavy,5712.97,-7595.30029,R2C5,B5,B2,SE,Phantom
+2629390,cd0ede88-b842-4de2-ae9f-bb8776a99437,NRG,defender,Ethan,True,active,kay/o,full,heavy,5011.42432,-5739.74902,R6C1,B1,B6,NW,Vandal
+2629390,cd0ede88-b842-4de2-ae9f-bb8776a99437,NRG,defender,crashies,True,active,sova,full,heavy,6031.52783,-8357.88672,R1C7,B7,B1,SE,Odin
+2629391,8aacfbab-be97-44f9-bc69-da5c6601062a,Cloud9,attacker,Jakee,True,active,brimstone,damaged,light,11489.8652,-5714.8584,R1C6,B6,B1,SE,Vandal
+2629391,8aacfbab-be97-44f9-bc69-da5c6601062a,Cloud9,attacker,vanity,True,active,skye,full,heavy,11297.9,-5142.01123,R1C6,B6,B1,SE,Vandal
+2629391,e267ddd1-e28f-48e3-8e83-3fb42a27cc63,MIBR,defender,mazin,True,active,skye,damaged,none,-2219.73706,-6314.39746,R3C1,B1,B3,SW,Vandal
+2629391,4a219f17-c477-448a-ad7b-4f77ab033c9c,Cloud9,defender,Jakee,True,active,omen,full,light,6287.81396,-5340.36572,R1C6,B6,B1,SE,Vandal
+2629391,4a219f17-c477-448a-ad7b-4f77ab033c9c,Cloud9,defender,vanity,True,active,gekko,damaged,light,5020.86523,-4091.71509,R2C3,B3,B2,SW,Vandal
+2629392,dadd1796-2cb3-419b-814b-1260cea71822,LOUD,defender,Saadhak,True,active,skye,full,light,6503.44971,-7939.34619,R1C7,B7,B1,SE,Vandal
+2629392,dadd1796-2cb3-419b-814b-1260cea71822,LOUD,defender,tuyz,True,active,omen,full,heavy,4907.17627,-6584.5293,R4C2,B2,B4,SW,Vandal
+2629392,02a4f2b8-4a3c-4538-8329-0a8c28b0dbb0,LOUD,defender,qck1,True,active,phoenix,full,heavy,4183.18115,-5867.85693,R6C8,B8,B6,NE,Vandal
+2629392,02a4f2b8-4a3c-4538-8329-0a8c28b0dbb0,LOUD,defender,cauanzin,True,active,breach,full,heavy,-543.974304,-9379.64453,R1C4,B4,B1,SW,Vandal
+2629392,02a4f2b8-4a3c-4538-8329-0a8c28b0dbb0,LOUD,defender,Saadhak,True,active,kay/o,full,heavy,-4272.59619,-8128.30127,R2C1,B1,B2,SW,Operator
+2629392,02a4f2b8-4a3c-4538-8329-0a8c28b0dbb0,LOUD,defender,tuyz,True,active,omen,full,heavy,741.318237,-4128.36963,R8C5,B5,B8,NE,Vandal
+2629393,6a2cd9d2-b105-44fc-a573-22daf50c2265,Leviatán Esports,defender,kiNgg,True,active,viper,full,heavy,6147.0708,-2382.33716,R8C1,B1,B8,NW,Shorty
+2629393,6a2cd9d2-b105-44fc-a573-22daf50c2265,Leviatán Esports,defender,tex,True,active,gekko,full,heavy,11560.9111,-4799.55322,R4C8,B8,B4,SE,Shorty
+2629393,6a2cd9d2-b105-44fc-a573-22daf50c2265,Leviatán Esports,defender,Mazino,True,active,harbor,full,heavy,11308.8428,-6823.6333,R1C8,B8,B1,SE,Shorty
+2629393,b1185c74-f70d-413f-a941-9240e9708890,100 Thieves,attacker,Cryo,True,active,astra,full,heavy,-2857.18555,-4463.96875,R3C1,B1,B3,SW,Shorty
+2629393,b1185c74-f70d-413f-a941-9240e9708890,100 Thieves,attacker,Boostio,True,active,gekko,full,heavy,-3057.99976,-4257.77197,R4C1,B1,B4,SW,Melee
+2629393,b1185c74-f70d-413f-a941-9240e9708890,100 Thieves,attacker,eeiu,True,active,fade,full,heavy,712.696655,-4505.00488,R3C4,B4,B3,SW,Shorty
+2629393,c924abac-da36-42b3-b78f-f0c51fdb34f2,Leviatán Esports,attacker,aspas,True,active,reyna,full,heavy,-7015.38672,2043.19189,R3C3,B3,B3,SW,Vandal
+2629393,c924abac-da36-42b3-b78f-f0c51fdb34f2,Leviatán Esports,attacker,C0M,True,active,sova,full,light,-7017.99414,1459.60352,R1C3,B3,B1,SW,Vandal
+2629393,c924abac-da36-42b3-b78f-f0c51fdb34f2,Leviatán Esports,attacker,kiNgg,True,active,viper,full,heavy,-7845.11328,3910.53711,R8C1,B1,B8,NW,Vandal
+2629394,55c2b36a-f81b-4a77-ac8b-4c6bdfa6d498,KRÜ Esports,attacker,Melser,True,active,viper,full,light,-6562.3916,458.6651,R1C3,B3,B1,SW,Vandal
+2629394,2ac8ee27-498f-41c4-aa0c-3f9b0090811e,G2 Esports,attacker,neT,True,active,cypher,critical,none,-1306.29211,-5057.88232,R2C2,B2,B2,SW,Vandal
+2629394,2ac8ee27-498f-41c4-aa0c-3f9b0090811e,G2 Esports,attacker,leaf,True,active,raze,damaged,none,186.426682,-5649.38574,R1C6,B6,B1,SE,Vandal
+2629394,2ac8ee27-498f-41c4-aa0c-3f9b0090811e,G2 Esports,attacker,valyn,True,active,omen,full,light,-1957.24915,-5256.9248,R1C1,B1,B1,SW,Vandal
+2629394,2ac8ee27-498f-41c4-aa0c-3f9b0090811e,G2 Esports,attacker,trent,True,active,viper,full,light,-1554.44141,-3738.01562,R5C2,B2,B5,NW,Vandal
+2629394,2ac8ee27-498f-41c4-aa0c-3f9b0090811e,G2 Esports,attacker,JonahP,True,active,sova,full,heavy,-1905.12964,-2473.94971,R8C1,B1,B8,NW,Vandal
+2629394,96506fbc-7552-493d-bb37-3f6d7fcf6dcb,G2 Esports,attacker,trent,True,active,viper,full,light,-1033.45215,-6580.48877,R7C7,B7,B7,NE,Vandal
+2629394,96506fbc-7552-493d-bb37-3f6d7fcf6dcb,G2 Esports,attacker,JonahP,True,active,kay/o,full,heavy,-2018.86511,-8382.44238,R3C4,B4,B3,SW,Vandal
+2629395,2cd86d08-a06b-4c0f-b749-a0f2964a68ce,MIBR,attacker,frz,True,active,viper,damaged,none,7780.39941,-7351.1167,R3C7,B7,B3,SE,Phantom
+2629395,c771aaf8-c65c-4468-9bf5-7f6530c768f3,MIBR,defender,rglmeister,True,active,viper,full,none,7226.74609,3202.94019,R4C6,B6,B4,SE,Shorty
+2629395,c771aaf8-c65c-4468-9bf5-7f6530c768f3,MIBR,defender,frz,True,active,cypher,full,light,5623.44775,452.093048,R1C3,B3,B1,SW,Melee
+2629395,c771aaf8-c65c-4468-9bf5-7f6530c768f3,MIBR,defender,mazin,True,active,kay/o,full,light,8857.68457,4026.51831,R5C8,B8,B5,NE,Vandal
+2629395,c771aaf8-c65c-4468-9bf5-7f6530c768f3,MIBR,defender,jzz,True,active,sova,full,light,5285.45117,2067.33423,R3C2,B2,B3,SW,Melee
+2629396,cfc3a968-84cf-4e7b-a0ea-32b79d993499,Sentinels,defender,TenZ,True,active,omen,full,light,4386.84912,-2558.58276,R8C1,B1,B8,NW,Vandal
+2629396,cfc3a968-84cf-4e7b-a0ea-32b79d993499,Sentinels,defender,johnqt,True,active,viper,full,light,5007.0874,-3208.86401,R6C2,B2,B6,NW,Phantom
+2629396,cfc3a968-84cf-4e7b-a0ea-32b79d993499,Sentinels,defender,zekken,True,active,raze,critical,none,5425.38867,-4882.40332,R1C3,B3,B1,SW,Melee
+2629396,cfc3a968-84cf-4e7b-a0ea-32b79d993499,Sentinels,defender,Sacy,True,active,fade,full,light,5837.13525,-4089.74878,R4C4,B4,B4,SW,Vandal
+2629396,e28b9dbd-3643-4e70-a47f-d635be9ce699,100 Thieves,defender,eeiu,True,active,fade,full,heavy,10513.4873,1802.28235,R5C6,B6,B5,NE,Vandal
+2629396,e28b9dbd-3643-4e70-a47f-d635be9ce699,100 Thieves,defender,bang,True,active,viper,full,heavy,10212.0059,3058.45703,R8C6,B6,B8,NE,Shorty
+2629396,711ae558-0054-4127-96ef-65de99d99673,Sentinels,defender,johnqt,True,active,cypher,full,heavy,3908.13232,-7601.26709,R1C6,B6,B1,SE,Phantom
+2629396,711ae558-0054-4127-96ef-65de99d99673,Sentinels,defender,zekken,True,active,raze,full,heavy,3586.27222,-5933.7832,R4C6,B6,B4,SE,Phantom
+2629396,711ae558-0054-4127-96ef-65de99d99673,Sentinels,defender,Sacy,True,active,skye,full,heavy,6048.78271,-6163.91748,R4C8,B8,B4,SE,Sheriff
+2629398,da54a836-dd47-47d1-a79e-6daa504bdb56,NRG,attacker,Marved,True,active,omen,damaged,none,1945.79468,4365.00439,R5C4,B4,B5,NW,Vandal
+2629398,da54a836-dd47-47d1-a79e-6daa504bdb56,NRG,attacker,Ethan,True,active,skye,full,heavy,2325.38892,3983.57739,R4C4,B4,B4,SW,Vandal
+2629398,da54a836-dd47-47d1-a79e-6daa504bdb56,NRG,attacker,crashies,True,active,viper,full,heavy,1965.84119,4754.52441,R6C4,B4,B6,NW,Shorty
+2629398,da54a836-dd47-47d1-a79e-6daa504bdb56,NRG,attacker,Victor,True,active,cypher,full,heavy,2092.42188,5524.07666,R8C4,B4,B8,NW,Vandal
+2629398,23db92c5-dde1-4110-8ca8-2fb0887baea0,NRG,defender,Ethan,True,active,kay/o,full,light,5491.86475,-6950.95166,R1C6,B6,B1,SE,Vandal
+2629398,23db92c5-dde1-4110-8ca8-2fb0887baea0,NRG,defender,crashies,True,active,sova,full,heavy,5809.94922,-6911.70264,R1C7,B7,B1,SE,Odin
+2629399,ee809db8-0a1e-463f-8d68-61f0befb7d7c,Leviatán Esports,defender,aspas,True,active,raze,full,heavy,11613.8066,-4098.75293,R2C8,B8,B2,SE,Vandal
+2629399,ee809db8-0a1e-463f-8d68-61f0befb7d7c,Leviatán Esports,defender,C0M,True,active,skye,full,light,9706.63184,3038.72925,R8C5,B5,B8,NE,Phantom
+2629399,ee809db8-0a1e-463f-8d68-61f0befb7d7c,Leviatán Esports,defender,kiNgg,True,active,viper,full,heavy,11494.2031,-5652.44092,R1C8,B8,B1,SE,Shorty
+2629399,ee809db8-0a1e-463f-8d68-61f0befb7d7c,Leviatán Esports,defender,tex,True,active,gekko,full,heavy,10803.167,-4250.84863,R2C7,B7,B2,SE,Phantom
+2629399,ee809db8-0a1e-463f-8d68-61f0befb7d7c,Leviatán Esports,defender,Mazino,True,active,harbor,full,heavy,11372.2744,2333.48145,R8C8,B8,B8,NE,Shorty
+2629399,12b1033d-55d2-480b-a212-fb9097fee3c0,LOUD,attacker,qck1,True,active,raze,full,heavy,6222.35059,-7545.7251,R1C3,B3,B1,SW,Shorty
+2629399,12b1033d-55d2-480b-a212-fb9097fee3c0,LOUD,attacker,cauanzin,True,active,breach,full,heavy,6908.30225,-6953.29834,R2C5,B5,B2,SE,Shorty
+2629399,12b1033d-55d2-480b-a212-fb9097fee3c0,LOUD,attacker,Less,True,active,viper,full,heavy,8231.5957,-5912.30469,R4C8,B8,B4,SE,Vandal
+2629399,3ffcbe29-e13c-4de2-8569-b8c12ea054ec,Leviatán Esports,attacker,aspas,True,active,jett,full,none,-2329.18188,-8654.28223,R2C4,B4,B2,SW,Vandal
+2629399,3ffcbe29-e13c-4de2-8569-b8c12ea054ec,LOUD,defender,qck1,True,active,phoenix,full,heavy,1056.448,-7297.06201,R6C8,B8,B6,NE,Phantom
+2629399,3ffcbe29-e13c-4de2-8569-b8c12ea054ec,LOUD,defender,cauanzin,True,active,breach,full,heavy,744.449951,-9317.49902,R1C8,B8,B1,SE,Phantom
+2629400,99aab4a2-d4ce-4935-a0a8-f817cf9084d3,Evil Geniuses,attacker,JAWGEMO,True,active,raze,full,heavy,563.802185,-3155.16187,R2C3,B3,B2,SW,Vandal
+2629400,99aab4a2-d4ce-4935-a0a8-f817cf9084d3,Evil Geniuses,attacker,Derrek,True,active,fade,full,light,-267.649231,-4769.75684,R1C1,B1,B1,SW,Shorty
+2629400,99aab4a2-d4ce-4935-a0a8-f817cf9084d3,Evil Geniuses,attacker,NaturE,True,active,breach,full,heavy,720.648865,-5042.02,R1C4,B4,B1,SW,Vandal
+2629400,99aab4a2-d4ce-4935-a0a8-f817cf9084d3,Evil Geniuses,attacker,supamen,True,active,omen,full,heavy,2137.81421,-5005.75928,R1C8,B8,B1,SE,Vandal
+2629400,4bb219f6-8c94-4c8e-b155-3034d661d811,Evil Geniuses,attacker,supamen,True,active,viper,full,light,-6049.85449,3777.88379,R5C5,B5,B5,NE,Vandal
+2629401,df33ba86-e9fe-423e-8e44-206002633674,MIBR,defender,frz,True,active,viper,full,heavy,11129.4814,2953.56885,R5C8,B8,B5,NE,Vandal
+2629401,03babb80-c970-443f-a21f-f7a4370a23ad,MIBR,defender,rglmeister,True,active,omen,full,heavy,5342.75732,-7281.32861,R3C6,B6,B3,SE,Odin
+2629401,03babb80-c970-443f-a21f-f7a4370a23ad,MIBR,defender,frz,True,active,cypher,full,light,5687.51514,-6464.74805,R5C7,B7,B5,NE,Phantom
+2629401,03babb80-c970-443f-a21f-f7a4370a23ad,MIBR,defender,mazin,True,active,viper,full,none,6526.1958,-6909.63135,R4C8,B8,B4,SE,Vandal
+2629401,03babb80-c970-443f-a21f-f7a4370a23ad,MIBR,defender,artziN,True,active,jett,full,none,5325.55078,-7173.79492,R3C6,B6,B3,SE,Shorty
+2629402,d4fb7b22-a49c-4eb0-a2bc-a810a6bae585,Sentinels,attacker,Sacy,True,active,skye,damaged,none,8148.4292,-7540.54688,R2C8,B8,B2,SE,Phantom
+2629402,dfc5d885-f463-49b5-b2fa-ec79a94aeb63,Leviatán Esports,defender,C0M,True,active,sova,full,light,7093.7627,-4451.4082,R2C3,B3,B2,SW,Sheriff
+2629402,dfc5d885-f463-49b5-b2fa-ec79a94aeb63,Leviatán Esports,defender,kiNgg,True,active,viper,critical,none,7559.95264,-5482.22217,R1C4,B4,B1,SW,Vandal
+2629402,dfc5d885-f463-49b5-b2fa-ec79a94aeb63,Leviatán Esports,defender,tex,True,active,cypher,damaged,none,6962.41797,-4402.63232,R2C2,B2,B2,SW,Vandal
+2629402,522c73ea-ded3-4bec-ad61-f47017879d46,Sentinels,defender,TenZ,True,active,yoru,full,heavy,9999.36328,1209.75403,R3C1,B1,B3,SW,Vandal
+2629402,522c73ea-ded3-4bec-ad61-f47017879d46,Sentinels,defender,johnqt,True,active,viper,full,heavy,12159.1094,587.806641,R1C8,B8,B1,SE,Phantom
+2629402,522c73ea-ded3-4bec-ad61-f47017879d46,Sentinels,defender,zekken,True,active,raze,full,light,10520.2256,2261.05957,R6C3,B3,B6,NW,Phantom
+2629402,522c73ea-ded3-4bec-ad61-f47017879d46,Sentinels,defender,Sacy,True,active,skye,full,light,10293.248,205.164337,R1C2,B2,B1,SW,Phantom
+2629403,6f90ecd9-eaf6-403e-a286-b2ee7011398d,G2 Esports,attacker,neT,True,active,cypher,full,heavy,6404.95215,-4111.41406,R8C5,B5,B8,NE,Vandal
+2629403,6f90ecd9-eaf6-403e-a286-b2ee7011398d,G2 Esports,attacker,leaf,True,active,raze,critical,none,7367.98535,-7210.64648,R1C7,B7,B1,SE,Vandal
+2629403,6f90ecd9-eaf6-403e-a286-b2ee7011398d,G2 Esports,attacker,valyn,True,active,omen,full,heavy,8006.68311,-7354.01367,R1C8,B8,B1,SE,Vandal
+2629403,6f90ecd9-eaf6-403e-a286-b2ee7011398d,G2 Esports,attacker,trent,True,active,viper,full,light,5642.00342,-7174.11475,R1C3,B3,B1,SW,Phantom
+2629403,6f90ecd9-eaf6-403e-a286-b2ee7011398d,G2 Esports,attacker,JonahP,True,active,breach,full,light,6307.31,-5333.21191,R5C5,B5,B5,NE,Vandal
+2629403,ce2cd253-6109-4140-bf44-8595fcc8bb9e,G2 Esports,attacker,neT,True,active,cypher,full,heavy,2650.09985,1450.61682,R7C5,B5,B7,NE,Vandal
+2629403,ce2cd253-6109-4140-bf44-8595fcc8bb9e,G2 Esports,attacker,leaf,True,active,raze,full,heavy,3351.33887,2027.08557,R8C7,B7,B8,NE,Vandal
+2629403,ce2cd253-6109-4140-bf44-8595fcc8bb9e,G2 Esports,attacker,valyn,True,active,omen,full,heavy,-170.624069,-4516.8584,R1C1,B1,B1,SW,Vandal
+2629403,ce2cd253-6109-4140-bf44-8595fcc8bb9e,G2 Esports,attacker,trent,True,active,viper,damaged,none,79.9221802,-4916.91504,R1C1,B1,B1,SW,Vandal
+2629403,ce2cd253-6109-4140-bf44-8595fcc8bb9e,G2 Esports,attacker,JonahP,True,active,sova,full,light,556.433105,-4928.08936,R1C2,B2,B1,SW,Vandal
+2629405,853d7d7b-ce26-4e8a-b94a-857e06aa3b48,Evil Geniuses,attacker,JAWGEMO,True,active,jett,damaged,light,5032.97803,-6281.28906,R6C7,B7,B6,NE,Vandal
+2629405,853d7d7b-ce26-4e8a-b94a-857e06aa3b48,Evil Geniuses,attacker,NaturE,True,active,kay/o,damaged,none,6001.80859,-5625.32764,R8C8,B8,B8,NE,Phantom
+2629405,853d7d7b-ce26-4e8a-b94a-857e06aa3b48,Evil Geniuses,attacker,supamen,True,active,omen,full,heavy,6360.74365,-7443.58105,R2C8,B8,B2,SE,Vandal
+2629405,37a34983-cc05-4f3c-9eb0-412740871f95,LOUD,defender,cauanzin,True,active,sova,damaged,none,1571.15161,-438.301788,R1C6,B6,B1,SE,Vandal
+2629405,37a34983-cc05-4f3c-9eb0-412740871f95,LOUD,defender,Saadhak,True,active,killjoy,damaged,none,1342.2677,1236.71765,R8C6,B6,B8,NE,Stinger
+2629405,37a34983-cc05-4f3c-9eb0-412740871f95,LOUD,defender,tuyz,True,active,harbor,full,none,1991.68823,218.668365,R4C7,B7,B4,SE,Vandal
+2629405,a11f871b-5065-4e1b-be48-4c1c4243bb2e,LOUD,attacker,Saadhak,True,active,sova,full,heavy,-1738.51794,-4176.81934,R3C2,B2,B3,SW,Shorty
+2629405,a11f871b-5065-4e1b-be48-4c1c4243bb2e,LOUD,attacker,Less,True,active,viper,full,heavy,-905.784485,-4748.1377,R2C4,B4,B2,SW,Vandal
+2629405,a11f871b-5065-4e1b-be48-4c1c4243bb2e,LOUD,attacker,tuyz,True,active,omen,full,heavy,-1854.63684,-5281.75928,R1C2,B2,B1,SW,Vandal
+2629406,6638a4db-ac35-4d4a-be20-4984d4a400c3,Sentinels,defender,TenZ,True,active,omen,full,heavy,1264.27942,4276.83887,R6C5,B5,B6,NE,Vandal
+2629406,6638a4db-ac35-4d4a-be20-4984d4a400c3,Sentinels,defender,johnqt,True,active,cypher,full,heavy,2857.81201,1025.16101,R1C8,B8,B1,SE,Phantom
+2629406,6638a4db-ac35-4d4a-be20-4984d4a400c3,Sentinels,defender,zekken,True,active,raze,full,heavy,2950.41064,3760.88013,R5C8,B8,B5,NE,Shorty
+2629406,86427b27-9b79-42c6-b998-e7ed2a60725e,NRG,defender,Demon1,True,active,jett,full,light,-3219.82471,-7343.06934,R7C3,B3,B7,NW,Vandal
+2629406,86427b27-9b79-42c6-b998-e7ed2a60725e,NRG,defender,Ethan,True,active,kay/o,full,light,-3292.03076,-7548.8457,R6C3,B3,B6,NW,Vandal
+2629406,80fde6d4-c501-49d0-81dc-731205510b81,Sentinels,attacker,Sacy,True,active,skye,full,light,-3438.96948,-7078.34277,R1C1,B1,B1,SW,Phantom
+2629407,a4613aad-0f74-4920-b3ae-40c580081e63,Sentinels,defender,Zellsis,True,active,kay/o,critical,none,2159.63574,4005.7063,R7C5,B5,B7,NE,Vandal
+2629407,a4613aad-0f74-4920-b3ae-40c580081e63,Sentinels,defender,johnqt,True,active,cypher,damaged,none,2404.16284,4703.48779,R8C6,B6,B8,NE,Phantom
+2629407,faa7baf3-d75c-4f63-a6b3-26c868e7c662,Sentinels,attacker,TenZ,True,active,omen,critical,none,3854.87036,-7461.0752,R3C5,B5,B3,SE,Vandal
+2629407,faa7baf3-d75c-4f63-a6b3-26c868e7c662,Sentinels,attacker,Zellsis,True,active,viper,full,heavy,3752.73755,-7798.38525,R2C5,B5,B2,SE,Phantom
+2629407,faa7baf3-d75c-4f63-a6b3-26c868e7c662,Sentinels,attacker,johnqt,True,active,cypher,full,heavy,4055.44873,-7470.10645,R3C5,B5,B3,SE,Vandal
+2629407,faa7baf3-d75c-4f63-a6b3-26c868e7c662,Sentinels,attacker,zekken,True,active,raze,damaged,light,5257.99707,-8459.5127,R1C6,B6,B1,SE,Vandal
+2629407,a0a0082a-6771-4599-9ed3-35cbf9c92f03,LOUD,defender,qck1,True,active,jett,full,heavy,1711.82483,3447.90503,R7C7,B7,B7,NE,Shorty
+2629407,a0a0082a-6771-4599-9ed3-35cbf9c92f03,LOUD,defender,cauanzin,True,active,sova,full,heavy,1798.18811,1801.52588,R4C7,B7,B4,SE,Shorty
+2629407,a0a0082a-6771-4599-9ed3-35cbf9c92f03,LOUD,defender,Saadhak,True,active,killjoy,damaged,none,-480.149658,1634.72839,R4C4,B4,B4,SW,Shorty
+2629407,a0a0082a-6771-4599-9ed3-35cbf9c92f03,LOUD,defender,Less,True,active,viper,full,heavy,-1125.08728,3741.05518,R7C3,B3,B7,NW,Vandal
+2629407,a0a0082a-6771-4599-9ed3-35cbf9c92f03,LOUD,defender,tuyz,True,active,harbor,full,heavy,1484.65686,4398.19287,R8C7,B7,B8,NE,Vandal
+2629407,81d822bb-688b-4dae-9a8e-52fe30bda288,LOUD,defender,qck1,True,active,phoenix,damaged,none,8972.82617,-1793.14246,R2C1,B1,B2,SW,Vandal
+2629407,81d822bb-688b-4dae-9a8e-52fe30bda288,LOUD,defender,Saadhak,True,active,kay/o,damaged,none,9434.07617,664.417725,R5C2,B2,B5,NW,Phantom
+2629407,81d822bb-688b-4dae-9a8e-52fe30bda288,LOUD,defender,Less,True,active,viper,full,light,10023.6543,2108.49146,R7C3,B3,B7,NW,Melee
+2629407,81d822bb-688b-4dae-9a8e-52fe30bda288,LOUD,defender,tuyz,True,active,brimstone,full,light,10416.7812,2516.58911,R8C4,B4,B8,NW,Phantom
+2629407,acd6fecd-ec7a-49a7-830e-8f57372cadc1,Sentinels,defender,zekken,True,active,raze,critical,none,7429.81592,6468.59668,R8C6,B6,B8,NE,Phantom
+2629407,acd6fecd-ec7a-49a7-830e-8f57372cadc1,LOUD,attacker,tuyz,True,active,omen,critical,none,7267.90771,6190.60498,R8C5,B5,B8,NE,Vandal
+2637961,ffc0ba07-4f35-4b88-adfe-0838d93b8ab0,Sentinels,attacker,TenZ,True,active,omen,full,none,7532.61084,-7854.54492,R1C8,B8,B1,SE,Vandal
+2637961,ffc0ba07-4f35-4b88-adfe-0838d93b8ab0,Sentinels,attacker,Zellsis,True,active,viper,critical,none,5911.87549,-6113.23242,R5C6,B6,B5,NE,Spike
+2637961,1abd393e-d7ce-4295-9187-aac9afcfa36d,Sentinels,attacker,Zellsis,True,active,kay/o,full,light,-4235.86572,-8039.86865,R1C1,B1,B1,SW,Phantom
+2637961,1abd393e-d7ce-4295-9187-aac9afcfa36d,Sentinels,attacker,zekken,True,active,jett,damaged,none,-2472.51392,-7310.39746,R2C3,B3,B2,SW,Phantom
+2637961,1abd393e-d7ce-4295-9187-aac9afcfa36d,Sentinels,attacker,Sacy,True,active,sova,damaged,none,1292.87427,-5662.88379,R6C8,B8,B6,NE,Odin
+2637962,d8ce4d0c-a413-4de3-85a4-98a163263097,MIBR,defender,frz,True,active,cypher,damaged,none,492.740723,-4633.62305,R1C2,B2,B1,SW,Melee
+2637962,d8ce4d0c-a413-4de3-85a4-98a163263097,MIBR,defender,mazin,True,active,viper,full,heavy,594.137878,-4101.03467,R1C2,B2,B1,SW,Vandal
+2637962,0d425d58-8e66-43bb-85a2-aeacf5201bd7,G2 Esports,attacker,neT,True,active,cypher,critical,none,-2845.02856,-4403.57275,R8C1,B1,B8,NW,Vandal
+2637962,0d425d58-8e66-43bb-85a2-aeacf5201bd7,G2 Esports,attacker,leaf,True,active,raze,full,heavy,-2934.01392,-7602.53613,R1C1,B1,B1,SW,Vandal
+2637962,0d425d58-8e66-43bb-85a2-aeacf5201bd7,G2 Esports,attacker,JonahP,True,active,breach,full,heavy,-1618.37097,-7054.17871,R2C5,B5,B2,SE,Vandal
+2637962,25e62ce7-8bbf-421e-a271-d48bec974668,MIBR,defender,mazin,True,active,kay/o,full,heavy,9301.9707,-3372.26733,R3C8,B8,B3,SE,Vandal
+2637962,25e62ce7-8bbf-421e-a271-d48bec974668,MIBR,defender,jzz,True,active,sova,full,heavy,2921.77856,-4688.99707,R1C1,B1,B1,SW,Vandal
+2637963,2a7bec4a-4f98-41f5-a71f-65b436402d82,Sentinels,defender,zekken,True,active,raze,full,heavy,1975.49146,3442.00562,R5C5,B5,B5,NE,Phantom
+2637963,2a7bec4a-4f98-41f5-a71f-65b436402d82,G2 Esports,attacker,leaf,True,active,raze,full,light,1874.00513,2245.29517,R1C5,B5,B1,SE,Vandal
+2637963,2a7bec4a-4f98-41f5-a71f-65b436402d82,G2 Esports,attacker,JonahP,True,active,sova,full,light,112.575294,2636.32056,R2C1,B1,B2,SW,Melee
+2637963,912fccf9-db18-4fa5-9807-b1ab9ace1e8d,Sentinels,attacker,Zellsis,True,active,viper,full,heavy,3056.57983,5094.31152,R5C2,B2,B5,NW,Phantom
+2637963,912fccf9-db18-4fa5-9807-b1ab9ace1e8d,G2 Esports,defender,neT,True,active,cypher,full,heavy,4740.02588,6662.9165,R8C5,B5,B8,NE,Vandal
+2637963,912fccf9-db18-4fa5-9807-b1ab9ace1e8d,G2 Esports,defender,JonahP,True,active,sova,damaged,light,4208.7334,6335.84229,R8C4,B4,B8,NW,Operator
+2637963,3d5eab91-9ef7-4410-b996-8463dc2fe880,Sentinels,attacker,Zellsis,True,active,viper,full,heavy,-645.690491,-2680.60034,R5C5,B5,B5,NE,Operator
+2637963,3d5eab91-9ef7-4410-b996-8463dc2fe880,Sentinels,attacker,johnqt,True,active,cypher,critical,none,1833.34058,306.664185,R8C8,B8,B8,NE,Vandal
+2637963,3d5eab91-9ef7-4410-b996-8463dc2fe880,G2 Esports,defender,leaf,True,active,raze,full,heavy,-1087.30029,-4851.38574,R3C4,B4,B3,SW,Vandal
+2637963,3d5eab91-9ef7-4410-b996-8463dc2fe880,G2 Esports,defender,valyn,True,active,omen,full,heavy,-3147.75195,-5730.7583,R2C1,B1,B2,SW,Vandal
+2637963,3d5eab91-9ef7-4410-b996-8463dc2fe880,G2 Esports,defender,trent,True,active,viper,full,light,325.594818,-5417.84473,R3C6,B6,B3,SE,Shorty
+2637963,3d5eab91-9ef7-4410-b996-8463dc2fe880,G2 Esports,defender,JonahP,True,active,breach,full,heavy,-2846.28564,-5992.87402,R2C1,B1,B2,SW,Vandal
+2648624,998b3f4f-5efa-4ce8-94c7-bd53db1dd4b3,Karmine Corp,attacker,MAGNUM,True,active,killjoy,full,light,-7440.37549,2804.13232,R6C2,B2,B6,NW,Vandal
+2648624,998b3f4f-5efa-4ce8-94c7-bd53db1dd4b3,Karmine Corp,attacker,marteen,True,active,jett,full,heavy,-6264.4458,2826.46167,R6C5,B5,B6,NE,Vandal
+2648624,4786babc-f578-4ed1-bf07-6f7ae6d5aa2f,Karmine Corp,attacker,Tomaszy,True,active,viper,full,heavy,7071.04248,-3761.7981,R5C8,B8,B5,NE,Shorty
+2648625,4ba0972a-6ffa-4a8b-9ab5-abe5470c2e04,Gen.G,defender,Karon,True,active,viper,full,light,-8029.33594,2950.21362,R6C1,B1,B6,NW,Vandal
+2648625,4ba0972a-6ffa-4a8b-9ab5-abe5470c2e04,LOUD,attacker,Less,True,active,viper,damaged,none,-7345.82275,3748.37622,R8C2,B2,B8,NW,Vandal
+2648625,43789020-4619-474e-8e0d-696a190e6ab9,LOUD,defender,Saadhak,True,active,kay/o,damaged,none,5259.19531,4303.80469,R7C2,B2,B7,NW,Vandal
+2648625,43789020-4619-474e-8e0d-696a190e6ab9,LOUD,defender,tuyz,True,active,viper,full,none,5811.81396,4303.87109,R7C3,B3,B7,NW,Vandal
+2648625,2f71a688-e5fd-450b-a84a-eecaa5bba118,Gen.G,defender,t3xture,True,active,jett,full,heavy,5233.03174,-5912.49561,R2C4,B4,B2,SW,Vandal
+2648625,2f71a688-e5fd-450b-a84a-eecaa5bba118,Gen.G,defender,Munchkin,True,active,kay/o,full,heavy,5097.58936,-6251.79346,R1C4,B4,B1,SW,Vandal
+2648625,2f71a688-e5fd-450b-a84a-eecaa5bba118,Gen.G,defender,Karon,True,active,omen,full,heavy,6278.84814,-6649.10938,R1C7,B7,B1,SE,Vandal
+2648625,2f71a688-e5fd-450b-a84a-eecaa5bba118,LOUD,attacker,cauanzin,True,active,breach,damaged,none,6525.24609,-4586.43066,R4C8,B8,B4,SE,Vandal
+2648625,2f71a688-e5fd-450b-a84a-eecaa5bba118,LOUD,attacker,Less,True,active,viper,full,heavy,5906.55811,-4442.94043,R4C6,B6,B4,SE,Vandal
+2648625,2f71a688-e5fd-450b-a84a-eecaa5bba118,LOUD,attacker,tuyz,True,active,omen,full,heavy,4058.22705,-1994.67175,R8C1,B1,B8,NW,Vandal
+2648626,2065ecd1-6f8a-46c1-99a6-6d11accf6417,Paper Rex,defender,Monyet,True,active,omen,full,heavy,-690.627808,-4722.56592,R1C2,B2,B1,SW,Vandal
+2648626,2065ecd1-6f8a-46c1-99a6-6d11accf6417,Paper Rex,defender,mindfreak,True,active,viper,full,light,-1859.77087,-5467.43799,R1C1,B1,B1,SW,Phantom
+2648626,2065ecd1-6f8a-46c1-99a6-6d11accf6417,Paper Rex,defender,something,True,active,gekko,full,light,3157.65967,1251.53674,R8C8,B8,B8,NE,Shorty
+2648626,2065ecd1-6f8a-46c1-99a6-6d11accf6417,Paper Rex,defender,f0rsakeN,True,active,kay/o,full,heavy,2512.23242,-1210.10437,R6C7,B7,B6,NE,Vandal
+2648626,7133849a-0fb4-4f45-ba9a-01bab1eaec79,EDward Gaming,attacker,ZmjjKK,True,active,kay/o,full,heavy,10150.5938,635.682068,R1C7,B7,B1,SE,Vandal
+2648626,afc697f1-1b46-4afc-9293-fd23c4b1811e,EDward Gaming,attacker,Haodong,True,active,omen,damaged,none,5986.72803,-5794.14111,R6C4,B4,B6,NW,Vandal
+2648627,3093b06e-499c-4c51-bba9-b9c620ac1b77,Sentinels,attacker,TenZ,True,active,omen,full,light,6849.09668,-3830.45581,R1C6,B6,B1,SE,Vandal
+2648627,3093b06e-499c-4c51-bba9-b9c620ac1b77,Sentinels,attacker,Zellsis,True,active,killjoy,full,heavy,5955.0127,-4819.73584,R1C4,B4,B1,SW,Phantom
+2648627,3093b06e-499c-4c51-bba9-b9c620ac1b77,Sentinels,attacker,johnqt,True,active,viper,full,heavy,4938.33057,-3768.0896,R1C2,B2,B1,SW,Vandal
+2648627,3093b06e-499c-4c51-bba9-b9c620ac1b77,Sentinels,attacker,zekken,True,active,raze,damaged,none,4540.83057,-4010.68,R1C1,B1,B1,SW,Vandal
+2648627,4de9d209-b13b-42ca-930b-5ff7d410e376,Team Heretics,attacker,RieNs,True,active,sova,critical,none,-1934.97949,-4303.42236,R4C1,B1,B4,SW,Vandal
+2648627,4de9d209-b13b-42ca-930b-5ff7d410e376,Team Heretics,attacker,benjyfishy,True,active,cypher,full,light,-938.264771,-5070.38623,R2C2,B2,B2,SW,Vandal
+2648627,4de9d209-b13b-42ca-930b-5ff7d410e376,Team Heretics,attacker,paTiTek,True,active,kay/o,full,heavy,-1350.68323,-4647.87402,R3C1,B1,B3,SW,Vandal
+2648627,be5cc47e-80d6-44c8-856e-d14a7b191de1,Sentinels,defender,TenZ,True,active,gekko,full,none,13098.5352,-2309.104,R4C8,B8,B4,SE,Vandal
+2648627,be5cc47e-80d6-44c8-856e-d14a7b191de1,Sentinels,defender,Zellsis,True,active,brimstone,critical,none,11632.1309,-4439.61084,R1C5,B5,B1,SE,Phantom
+2648627,be5cc47e-80d6-44c8-856e-d14a7b191de1,Sentinels,defender,johnqt,True,active,viper,full,heavy,11058.7891,-4279.62549,R1C4,B4,B1,SW,Shorty
+2648627,be5cc47e-80d6-44c8-856e-d14a7b191de1,Sentinels,defender,zekken,True,active,raze,damaged,light,11732.1084,-3723.96143,R2C6,B6,B2,SE,Phantom
+2648627,be5cc47e-80d6-44c8-856e-d14a7b191de1,Sentinels,defender,Sacy,True,active,skye,critical,none,10801.082,-4624.15332,R1C4,B4,B1,SW,Phantom
+2648628,84b635f8-38fa-4b8a-9469-5eb40e1ff0a4,Sentinels,defender,TenZ,True,active,omen,full,heavy,4119.2417,-7688.31299,R1C1,B1,B1,SW,Shorty
+2648628,84b635f8-38fa-4b8a-9469-5eb40e1ff0a4,Sentinels,defender,johnqt,True,active,cypher,full,heavy,5788.71436,-6518.55273,R3C5,B5,B3,SE,Phantom
+2648628,84b635f8-38fa-4b8a-9469-5eb40e1ff0a4,Sentinels,defender,Sacy,True,active,skye,damaged,none,6914.9,-6055.7334,R5C8,B8,B5,NE,Phantom
+2648628,8fc4daa9-51bc-4452-b6b8-db3a0959e573,Sentinels,defender,TenZ,True,active,omen,full,heavy,6269.0415,6005.24512,R7C1,B1,B7,NW,Sheriff
+2648628,8fc4daa9-51bc-4452-b6b8-db3a0959e573,Sentinels,defender,johnqt,True,active,viper,full,light,7325.34082,5687.00293,R6C7,B7,B6,NE,Shorty
+2648628,8fc4daa9-51bc-4452-b6b8-db3a0959e573,Sentinels,defender,Sacy,True,active,fade,damaged,light,7340.44043,5774.1543,R6C7,B7,B6,NE,Sheriff
+2648629,800f387f-6b52-4ad0-938f-04b45bec9fe5,EDward Gaming,defender,CHICHOO,True,active,killjoy,full,none,55.6895866,2225.52637,R6C5,B5,B6,NE,Vandal
+2648629,800f387f-6b52-4ad0-938f-04b45bec9fe5,EDward Gaming,defender,nobody,True,active,sova,full,heavy,2538.86,3711.61206,R8C8,B8,B8,NE,Phantom
+2648629,800f387f-6b52-4ad0-938f-04b45bec9fe5,EDward Gaming,defender,Smoggy,True,active,kay/o,damaged,none,1235.90662,2392.43188,R6C6,B6,B6,NE,Melee
+2648629,ff2df84d-08db-4932-970b-8b4e50d5ccee,Gen.G,defender,t3xture,True,active,raze,full,heavy,3683.5166,-8064.00635,R1C6,B6,B1,SE,Phantom
+2648629,ff2df84d-08db-4932-970b-8b4e50d5ccee,Gen.G,defender,Lakia,True,active,skye,full,heavy,-1180.82202,-4963.49609,R5C1,B1,B5,NW,Phantom
+2648629,ff2df84d-08db-4932-970b-8b4e50d5ccee,Gen.G,defender,Meteor,True,active,jett,full,heavy,914.26825,-7630.95361,R2C3,B3,B2,SW,Shorty
+2648629,ff2df84d-08db-4932-970b-8b4e50d5ccee,Gen.G,defender,Karon,True,active,omen,full,heavy,5982.82422,-8514.15527,R1C8,B8,B1,SE,Vandal
+2648629,ea3b7ab4-f110-4cbb-87c6-077d81c0a62b,Gen.G,defender,t3xture,True,active,jett,full,heavy,4346.625,4318.35938,R6C3,B3,B6,NW,Vandal
+2648629,ea3b7ab4-f110-4cbb-87c6-077d81c0a62b,Gen.G,defender,Lakia,True,active,sova,full,heavy,5857.06543,5680.93311,R8C5,B5,B8,NE,Phantom
+2648629,ea3b7ab4-f110-4cbb-87c6-077d81c0a62b,Gen.G,defender,Munchkin,True,active,viper,full,heavy,5654.02832,-515.464783,R1C5,B5,B1,SE,Vandal
+2648630,49d7e01a-56f7-4a76-b6f5-d3271aa91fa6,LOUD,attacker,cauanzin,True,active,breach,full,heavy,1514.04346,3406.75439,R8C6,B6,B8,NE,Vandal
+2648630,49d7e01a-56f7-4a76-b6f5-d3271aa91fa6,LOUD,attacker,Saadhak,True,active,sova,full,heavy,1115.28796,2992.28906,R8C5,B5,B8,NE,Shorty
+2648630,49d7e01a-56f7-4a76-b6f5-d3271aa91fa6,LOUD,attacker,Less,True,active,viper,full,heavy,3309.31079,2537.67358,R8C8,B8,B8,NE,Vandal
+2648630,49d7e01a-56f7-4a76-b6f5-d3271aa91fa6,LOUD,attacker,tuyz,True,active,omen,full,heavy,52.8691254,898.033691,R6C3,B3,B6,NW,Vandal
+2648630,df97089b-6079-41b6-959e-b30876511778,LOUD,defender,cauanzin,True,active,sova,full,heavy,6562.66406,-4677.81543,R2C3,B3,B2,SW,Vandal
+2648630,df97089b-6079-41b6-959e-b30876511778,LOUD,defender,Saadhak,True,active,kay/o,full,none,7363.89453,-4634.48584,R2C5,B5,B2,SE,Vandal
+2648630,df97089b-6079-41b6-959e-b30876511778,LOUD,defender,Less,True,active,cypher,damaged,none,6028.32764,-4604.11279,R2C3,B3,B2,SW,Vandal
+2648630,df97089b-6079-41b6-959e-b30876511778,LOUD,defender,tuyz,True,active,viper,full,heavy,6740.88232,-4598.57031,R2C4,B4,B2,SW,Vandal
+2648631,23bfe144-6017-45c2-aa8f-c061cf24e095,Paper Rex,defender,d4v41,True,active,sage,full,light,2046.26379,-5212.41943,R2C8,B8,B2,SE,Vandal
+2648631,23bfe144-6017-45c2-aa8f-c061cf24e095,Paper Rex,defender,something,True,active,gekko,full,light,1120.18823,-5256.85889,R2C6,B6,B2,SE,Vandal
+2648631,21451605-cf4c-4af3-81c7-2f5297bbd91d,Team Heretics,attacker,MiniBoo,True,active,neon,damaged,light,7456.31348,-4210.47754,R3C8,B8,B3,SE,Vandal
+2648631,21451605-cf4c-4af3-81c7-2f5297bbd91d,Team Heretics,attacker,RieNs,True,active,gekko,full,heavy,5961.09668,-4894.27246,R2C6,B6,B2,SE,Vandal
+2648631,21451605-cf4c-4af3-81c7-2f5297bbd91d,Team Heretics,attacker,benjyfishy,True,active,killjoy,full,heavy,5234.19824,-3748.7561,R4C5,B5,B4,SE,Vandal
+2648631,21451605-cf4c-4af3-81c7-2f5297bbd91d,Team Heretics,attacker,paTiTek,True,active,viper,damaged,light,6347.84521,-5451.05078,R1C7,B7,B1,SE,Spike
+2648631,014fa7ff-dea8-4315-8dff-71a37e45d06c,Paper Rex,defender,Monyet,True,active,omen,full,heavy,6492.72559,-3055.26904,R8C5,B5,B8,NE,Vandal
+2648631,014fa7ff-dea8-4315-8dff-71a37e45d06c,Paper Rex,defender,mindfreak,True,active,viper,full,heavy,6334.00244,-2939.9541,R8C4,B4,B8,NW,Shorty
+2648631,014fa7ff-dea8-4315-8dff-71a37e45d06c,Paper Rex,defender,d4v41,True,active,skye,damaged,none,7085.97754,-4104.55322,R4C8,B8,B4,SE,Shorty
+2648631,014fa7ff-dea8-4315-8dff-71a37e45d06c,Paper Rex,defender,something,True,active,jett,critical,none,6678.16895,-3086.67285,R8C6,B6,B8,NE,Shorty
+2648631,014fa7ff-dea8-4315-8dff-71a37e45d06c,Paper Rex,defender,f0rsakeN,True,active,raze,full,heavy,7120.60498,-3954.4873,R4C8,B8,B4,SE,Vandal
+2648632,ef083ddd-9f9e-4145-bd9b-233a521c781e,LOUD,defender,tuyz,True,active,harbor,full,heavy,-7194.42432,3339.7771,R8C1,B1,B8,NW,Vandal
+2648632,21928919-a832-4299-8d6d-ef0c7f55b090,LOUD,attacker,qck1,True,active,phoenix,full,heavy,182.10672,5941.646,R8C1,B1,B8,NW,Vandal
+2648632,21928919-a832-4299-8d6d-ef0c7f55b090,LOUD,attacker,cauanzin,True,active,breach,full,heavy,4446.92529,4295.67627,R6C8,B8,B6,NE,Vandal
+2648632,21928919-a832-4299-8d6d-ef0c7f55b090,LOUD,attacker,Saadhak,True,active,sova,full,heavy,2158.62158,4314.60596,R6C4,B4,B6,NW,Vandal
+2648632,21928919-a832-4299-8d6d-ef0c7f55b090,LOUD,attacker,Less,True,active,viper,full,heavy,2781.02539,5143.4668,R7C5,B5,B7,NE,Vandal
+2648632,21928919-a832-4299-8d6d-ef0c7f55b090,LOUD,attacker,tuyz,True,active,omen,full,heavy,1043.49658,3985.31299,R5C2,B2,B5,NW,Melee
+2648633,abb0f2d8-330d-4608-9e18-a004270010e4,Paper Rex,defender,mindfreak,True,active,brimstone,full,light,13045.79,-2267.83228,R4C8,B8,B4,SE,Phantom
+2648633,abb0f2d8-330d-4608-9e18-a004270010e4,Paper Rex,defender,d4v41,True,active,skye,full,light,11949.8662,1449.24854,R7C7,B7,B7,NE,Vandal
+2648633,abb0f2d8-330d-4608-9e18-a004270010e4,Paper Rex,defender,something,True,active,reyna,full,heavy,6494.38232,-1107.1134,R5C1,B1,B5,NW,Vandal
+2648633,abb0f2d8-330d-4608-9e18-a004270010e4,Paper Rex,defender,f0rsakeN,True,active,harbor,full,none,10296.7539,2403.85864,R8C5,B5,B8,NE,Vandal
+2648633,16869b7c-0384-445f-bee4-52509a1f88b1,Karmine Corp,attacker,Tomaszy,True,active,viper,full,light,6604.44678,-3189.91748,R2C8,B8,B2,SE,Vandal
+2648633,16869b7c-0384-445f-bee4-52509a1f88b1,Karmine Corp,attacker,marteen,True,active,raze,damaged,none,4603.54541,-5101.17773,R1C5,B5,B1,SE,Shorty
+2648633,f84eef93-2e5e-493d-8c5f-3b0e6943675c,Paper Rex,defender,mindfreak,True,active,viper,full,heavy,1242.86304,-4034.43457,R8C1,B1,B8,NW,Vandal
+2648633,f84eef93-2e5e-493d-8c5f-3b0e6943675c,Paper Rex,defender,d4v41,True,active,omen,full,heavy,7021.71777,-7329.92,R2C8,B8,B2,SE,Phantom
+2648633,f84eef93-2e5e-493d-8c5f-3b0e6943675c,Paper Rex,defender,something,True,active,gekko,full,none,5963.83789,-8352.75195,R1C7,B7,B1,SE,Shorty
+2648634,84ce6114-1d3a-49ca-a10f-ecec4825b581,Gen.G,defender,t3xture,True,active,raze,full,light,3556.26074,-5997.38037,R5C5,B5,B5,NE,Phantom
+2648634,84ce6114-1d3a-49ca-a10f-ecec4825b581,Gen.G,defender,Munchkin,True,active,viper,full,heavy,6943.12646,-4248.58691,R8C8,B8,B8,NE,Vandal
+2648634,84ce6114-1d3a-49ca-a10f-ecec4825b581,Gen.G,defender,Karon,True,active,omen,full,heavy,2939.77075,-8063.47852,R1C5,B5,B1,SE,Vandal
+2648634,d05e7423-38c4-4612-919e-6f051a0a5c58,Gen.G,attacker,Lakia,True,active,fade,full,light,7250.60596,-1764.28882,R1C8,B8,B1,SE,Vandal
+2648635,9247a940-f537-4991-9025-9edcf3eb0a9b,Sentinels,defender,TenZ,True,active,omen,full,light,536.922,-5005.3833,R5C3,B3,B5,NW,Shorty
+2648635,9247a940-f537-4991-9025-9edcf3eb0a9b,Sentinels,defender,johnqt,True,active,cypher,full,light,123.268501,-4227.16699,R7C3,B3,B7,NW,Phantom
+2648635,9247a940-f537-4991-9025-9edcf3eb0a9b,Sentinels,defender,zekken,True,active,raze,full,light,4941.61523,-6925.69775,R1C7,B7,B1,SE,Phantom
+2648635,9247a940-f537-4991-9025-9edcf3eb0a9b,Sentinels,defender,Sacy,True,active,skye,full,light,5053.44238,-6896.19,R1C7,B7,B1,SE,Phantom
+2648635,a538616f-7a26-4cea-a5a1-fd9a06b1ae57,LOUD,attacker,cauanzin,True,active,sova,full,light,44.8943977,2139.85864,R6C2,B2,B6,NW,Vandal
+2648635,a538616f-7a26-4cea-a5a1-fd9a06b1ae57,LOUD,attacker,Saadhak,True,active,killjoy,full,light,1202.98511,213.634491,R1C5,B5,B1,SE,Shorty
+2648635,a538616f-7a26-4cea-a5a1-fd9a06b1ae57,LOUD,attacker,tuyz,True,active,harbor,full,heavy,2674.99219,170.665634,R1C8,B8,B1,SE,Vandal
+2648635,443654fd-d543-42ee-a037-04ee4ba2e1ff,Sentinels,defender,TenZ,True,active,omen,damaged,none,321.61673,-3031.21362,R6C6,B6,B6,NE,Vandal
+2648635,443654fd-d543-42ee-a037-04ee4ba2e1ff,Sentinels,defender,Zellsis,True,active,kay/o,damaged,none,781.798889,-3442.25024,R5C8,B8,B5,NE,Phantom
+2648635,443654fd-d543-42ee-a037-04ee4ba2e1ff,Sentinels,defender,johnqt,True,active,cypher,full,heavy,785.00531,-5088.24072,R2C8,B8,B2,SE,Phantom
+2648635,443654fd-d543-42ee-a037-04ee4ba2e1ff,Sentinels,defender,Sacy,True,active,gekko,damaged,light,1004.51752,-5338.69434,R1C8,B8,B1,SE,Shorty
+2648636,7d834a79-551a-426b-b662-bd2bc1fe2791,Gen.G,defender,Lakia,True,active,skye,full,heavy,5737.02686,-6815.85791,R3C7,B7,B3,SE,Phantom
+2648636,7d834a79-551a-426b-b662-bd2bc1fe2791,Gen.G,defender,Munchkin,True,active,viper,full,heavy,5452.30469,-6339.31201,R4C7,B7,B4,SE,Phantom
+2648636,7d834a79-551a-426b-b662-bd2bc1fe2791,Gen.G,defender,Meteor,True,active,jett,damaged,light,7210.91895,-6009.29834,R6C8,B8,B6,NE,Phantom
+2648636,7d834a79-551a-426b-b662-bd2bc1fe2791,Gen.G,defender,Karon,True,active,omen,full,heavy,-616.687,-5333.46289,R8C1,B1,B8,NW,Melee
+2648636,a6c512e8-3ffb-4cc4-9052-2aa5e39dcd26,Sentinels,defender,TenZ,True,active,omen,full,heavy,8408.0127,6509.2793,R8C8,B8,B8,NE,Vandal
+2648636,a6c512e8-3ffb-4cc4-9052-2aa5e39dcd26,Sentinels,defender,johnqt,True,active,viper,full,heavy,6901.63477,6508.55127,R8C5,B5,B8,NE,Shorty
+2648636,a6c512e8-3ffb-4cc4-9052-2aa5e39dcd26,Sentinels,defender,zekken,True,active,raze,full,heavy,5748.77295,634.805,R1C2,B2,B1,SW,Phantom
+2648636,658566ed-de05-4bb2-b0b4-f83fe96f72a2,Gen.G,attacker,t3xture,True,active,jett,full,heavy,5016.38574,-4095.86719,R4C4,B4,B4,SW,Shorty
+2648636,658566ed-de05-4bb2-b0b4-f83fe96f72a2,Gen.G,attacker,Munchkin,True,active,viper,full,heavy,2355.89526,-4448.27881,R3C1,B1,B3,SW,Vandal
+2648637,0d218939-c0ed-4340-a67d-1085b3b82f1a,Paper Rex,defender,Monyet,True,active,raze,full,heavy,-83.7067719,-4042.62109,R8C5,B5,B8,NE,Vandal
+2648637,0d218939-c0ed-4340-a67d-1085b3b82f1a,Paper Rex,defender,d4v41,True,active,omen,full,heavy,2582.22437,-5073.70166,R7C8,B8,B7,NE,Shorty
+2648637,0d218939-c0ed-4340-a67d-1085b3b82f1a,Paper Rex,defender,something,True,active,gekko,full,heavy,-2070.08105,-8417.29102,R1C2,B2,B1,SW,Shorty
+2648637,0d218939-c0ed-4340-a67d-1085b3b82f1a,Paper Rex,defender,f0rsakeN,True,active,fade,full,light,-1308.88171,-6303.19189,R4C3,B3,B4,SW,Shorty
+2648637,e46edf1d-fb6f-4882-915f-6165e38dfad6,Paper Rex,attacker,Monyet,True,active,omen,full,light,-1029.73291,-4907.35352,R1C1,B1,B1,SW,Vandal
+2648637,e46edf1d-fb6f-4882-915f-6165e38dfad6,Paper Rex,attacker,something,True,active,gekko,full,heavy,600.064758,-5116.66895,R1C4,B4,B1,SW,Operator
+2648638,38d19e10-77ae-4e7a-a9d2-853611720687,Sentinels,attacker,johnqt,True,active,viper,full,heavy,4854.23,-4040.21753,R2C5,B5,B2,SE,Vandal
+2648638,38d19e10-77ae-4e7a-a9d2-853611720687,Sentinels,attacker,zekken,True,active,raze,damaged,none,6321.55127,-4104.42236,R2C8,B8,B2,SE,Shorty
+2648638,38d19e10-77ae-4e7a-a9d2-853611720687,Sentinels,attacker,Sacy,True,active,fade,critical,none,6345.63721,-5333.78,R1C8,B8,B1,SE,Shorty
+2648638,f139f7dd-9014-4abd-a1d4-5d3c87773af4,Sentinels,attacker,TenZ,True,active,omen,full,heavy,6625.33447,-4690.71387,R8C8,B8,B8,NE,Vandal
+2648638,4b92a972-ba99-4239-9b21-3e4acf799159,Paper Rex,attacker,mindfreak,True,active,omen,full,heavy,-2406.31543,-5182.66113,R6C1,B1,B6,NW,Vandal
+2648638,4b92a972-ba99-4239-9b21-3e4acf799159,Paper Rex,attacker,f0rsakeN,True,active,skye,full,heavy,-2142.03931,-6293.44775,R3C1,B1,B3,SW,Vandal
+2648638,09539041-4ab1-4d05-b013-11e90339fd17,Sentinels,attacker,TenZ,True,active,omen,full,light,2217.45752,3812.53784,R8C8,B8,B8,NE,Vandal
+2648639,9be04c6a-8324-4667-b482-2da47a657c3b,Gen.G,defender,Meteor,True,active,yoru,full,light,4717.07373,6264.23242,R7C1,B1,B7,NW,Vandal
+2648639,9be04c6a-8324-4667-b482-2da47a657c3b,Gen.G,defender,Karon,True,active,astra,full,heavy,4787.18262,6149.90527,R7C2,B2,B7,NW,Vandal
+2648639,bb7ff180-837b-4425-ac1d-d2435cf0c3c8,Sentinels,attacker,Zellsis,True,active,brimstone,full,heavy,11145.4297,1131.30371,R7C7,B7,B7,NE,Vandal
+2648639,bb7ff180-837b-4425-ac1d-d2435cf0c3c8,Sentinels,attacker,Sacy,True,active,skye,full,light,10530.627,2588.99023,R8C5,B5,B8,NE,Vandal
+2648639,ea978dc4-8a39-40db-ac57-328e2c81b695,Gen.G,defender,Munchkin,True,active,kay/o,damaged,light,-963.085205,-9557.99902,R1C5,B5,B1,SE,Phantom
+2648639,ea978dc4-8a39-40db-ac57-328e2c81b695,Gen.G,defender,Karon,True,active,omen,full,heavy,-2328.45972,-4603.57715,R8C1,B1,B8,NW,Vandal
+2648639,f0d322e8-b6e0-428d-85aa-a2e8496c26f0,Sentinels,attacker,TenZ,True,active,omen,full,heavy,-1985.94299,-6409.85059,R2C1,B1,B2,SW,Sheriff
+2648639,f0d322e8-b6e0-428d-85aa-a2e8496c26f0,Sentinels,attacker,Zellsis,True,active,viper,full,light,-2453.96826,-6879.15234,R1C1,B1,B1,SW,Spike
+2648639,f0d322e8-b6e0-428d-85aa-a2e8496c26f0,Sentinels,attacker,Sacy,True,active,skye,full,heavy,-3057.29956,-5104.66309,R6C1,B1,B6,NW,Phantom
+2648639,bd41c5de-5f12-4a8d-aece-3e86c0be3a19,Sentinels,attacker,Zellsis,True,active,killjoy,critical,light,-7136.17041,3910.49902,R8C1,B1,B8,NW,Phantom
+2648639,bd41c5de-5f12-4a8d-aece-3e86c0be3a19,Sentinels,attacker,johnqt,True,active,viper,full,heavy,-7811.97461,732.899902,R2C1,B1,B2,SW,Vandal
+2653969,4643965f-3e18-4a2a-9f89-21bd9858b2da,Cloud9,attacker,moose,True,active,killjoy,critical,none,-1885.77209,1638.98157,R5C3,B3,B5,NW,Phantom
+2653969,4643965f-3e18-4a2a-9f89-21bd9858b2da,Leviatán Esports,defender,aspas,True,active,jett,full,heavy,2074.40918,1522.02148,R5C7,B7,B5,NE,Vandal
+2653969,4643965f-3e18-4a2a-9f89-21bd9858b2da,Leviatán Esports,defender,C0M,True,active,sova,full,heavy,1847.8103,1132.49463,R4C7,B7,B4,SE,Phantom
+2653969,6fead2de-0fb4-470a-8919-95774257f533,Cloud9,attacker,moose,True,active,cypher,full,heavy,-1849.16211,-3358.00244,R2C1,B1,B2,SW,Vandal
+2653969,6fead2de-0fb4-470a-8919-95774257f533,Cloud9,attacker,vanity,True,active,omen,full,light,-1828.94385,-5246.62695,R1C1,B1,B1,SW,Vandal
+2653969,9ff33c59-9e3e-412a-b015-01881a79eb59,Cloud9,attacker,moose,True,active,killjoy,full,heavy,6221.51221,-4525.04443,R8C7,B7,B8,NE,Vandal
+2653970,5ca11bd6-e218-4a6c-9427-00e7badce91b,NRG,defender,Marved,True,active,omen,full,heavy,1332.38196,3358.16479,R5C5,B5,B5,NE,Melee
+2653972,f8c3e88f-cc2a-415d-bf6d-bcfb5248e727,G2 Esports,attacker,trent,True,active,fade,damaged,none,6352.64941,5569.91309,R5C1,B1,B5,NW,Vandal
+2653972,f8c3e88f-cc2a-415d-bf6d-bcfb5248e727,G2 Esports,attacker,JonahP,True,active,viper,damaged,none,6617.55469,5433.68555,R5C1,B1,B5,NW,Phantom
+2653972,fe03185a-024e-48a8-a378-2c0a7a8a64e3,G2 Esports,attacker,icy,True,active,gekko,full,heavy,-7342.1,3586.39111,R6C2,B2,B6,NW,Vandal
+2653972,fe03185a-024e-48a8-a378-2c0a7a8a64e3,G2 Esports,attacker,leaf,True,active,killjoy,full,light,-6542.01367,2963.45093,R4C3,B3,B4,SW,Vandal
+2653972,fe03185a-024e-48a8-a378-2c0a7a8a64e3,G2 Esports,attacker,valyn,True,active,omen,damaged,light,-5126.69775,3088.66406,R4C5,B5,B4,SE,Vandal
+2653972,fe03185a-024e-48a8-a378-2c0a7a8a64e3,G2 Esports,attacker,trent,True,active,sova,full,heavy,-7898.33,4334.40332,R8C1,B1,B8,NW,Vandal
+2653972,fe03185a-024e-48a8-a378-2c0a7a8a64e3,G2 Esports,attacker,JonahP,True,active,viper,full,heavy,-2432.99902,2183.74146,R2C8,B8,B2,SE,Phantom
+2653973,2bbb4c72-0036-4d88-b13a-43b86bc5b29d,Sentinels,attacker,johnqt,True,active,viper,full,heavy,-3229.26343,3932.35742,R8C8,B8,B8,NE,Vandal
+2653973,2bbb4c72-0036-4d88-b13a-43b86bc5b29d,Sentinels,attacker,Sacy,True,active,gekko,full,heavy,-5875.36279,1356.40027,R1C4,B4,B1,SW,Vandal
+2653973,d22aabdb-c9d2-4c94-a2fe-43a84c1b5ffc,Sentinels,defender,zekken,True,active,raze,full,light,4163.84473,-6802.4043,R2C5,B5,B2,SE,Vandal
+2653973,d22aabdb-c9d2-4c94-a2fe-43a84c1b5ffc,Sentinels,defender,johnqt,True,active,cypher,full,heavy,2306.68091,-7339.68164,R1C2,B2,B1,SW,Phantom
+2653973,d22aabdb-c9d2-4c94-a2fe-43a84c1b5ffc,Sentinels,defender,Sacy,True,active,skye,full,heavy,4294.80566,-7302.07861,R1C5,B5,B1,SE,Phantom
+2653974,1d75b223-64a3-46e9-8ad8-89d4de11044a,KRÜ Esports,defender,Shyy,True,active,killjoy,full,heavy,6145.46973,-3740.62402,R2C4,B4,B2,SW,Vandal
+2653974,1d75b223-64a3-46e9-8ad8-89d4de11044a,KRÜ Esports,defender,Klaus,True,active,viper,full,heavy,8174.27881,1961.66492,R8C8,B8,B8,NE,Phantom
+2653974,1d75b223-64a3-46e9-8ad8-89d4de11044a,KRÜ Esports,defender,Melser,True,active,omen,full,heavy,8300.04688,-4541.29297,R1C8,B8,B1,SE,Vandal
+2653974,15aba0eb-0241-4525-8138-098143330bc8,FURIA,defender,kon4n,True,active,viper,full,light,1459.96033,744.320435,R3C7,B7,B3,SE,Phantom
+2653974,15aba0eb-0241-4525-8138-098143330bc8,FURIA,defender,mwzera,True,active,omen,full,light,2043.56445,1565.55798,R5C8,B8,B5,NE,Vandal
+2653974,15aba0eb-0241-4525-8138-098143330bc8,FURIA,defender,Nozwer,True,active,kay/o,damaged,none,2090.31177,3598.29321,R8C8,B8,B8,NE,Vandal
+2653974,15aba0eb-0241-4525-8138-098143330bc8,FURIA,defender,Khalil,True,active,killjoy,full,heavy,2062.30078,1647.72974,R5C8,B8,B5,NE,Melee
+2653974,40be6139-32f9-4bff-9cef-14aed306f587,KRÜ Esports,attacker,Klaus,True,active,sova,damaged,light,5351.84961,-4261.58643,R3C1,B1,B3,SW,Vandal
+2653974,40be6139-32f9-4bff-9cef-14aed306f587,KRÜ Esports,attacker,heat,True,active,kay/o,damaged,none,7129.77588,-3988.55859,R3C4,B4,B3,SW,Vandal
+2653975,b5729ab0-3c59-45cd-8837-6222f10fca65,100 Thieves,defender,eeiu,True,active,fade,full,light,12756.4971,3021.05762,R8C8,B8,B8,NE,Vandal
+2653975,b5729ab0-3c59-45cd-8837-6222f10fca65,100 Thieves,defender,bang,True,active,viper,full,light,10621.875,-5713.68408,R1C4,B4,B1,SW,Shorty
+2653975,b5729ab0-3c59-45cd-8837-6222f10fca65,100 Thieves,defender,Boostio,True,active,gekko,damaged,none,11253.0234,-4077.32153,R2C6,B6,B2,SE,Phantom
+2653975,b5729ab0-3c59-45cd-8837-6222f10fca65,100 Thieves,defender,Cryo,True,active,brimstone,critical,none,10376.7158,-4402.38086,R2C4,B4,B2,SW,Phantom
+2653975,848c92f4-3b64-4105-b6fc-b80bc28c9b0f,100 Thieves,attacker,eeiu,True,active,fade,damaged,none,-2822.23608,-5058.16895,R5C1,B1,B5,NW,Vandal
+2653976,c2440b95-ce02-4b30-aac7-ff1ffbcb80e9,Leviatán Esports,defender,aspas,True,active,raze,damaged,none,5533.41,-3819.85693,R2C6,B6,B2,SE,Phantom
+2653976,c2440b95-ce02-4b30-aac7-ff1ffbcb80e9,Leviatán Esports,defender,kiNgg,True,active,viper,full,heavy,6321.89893,-5108.5083,R1C8,B8,B1,SE,Vandal
+2653976,c2440b95-ce02-4b30-aac7-ff1ffbcb80e9,Leviatán Esports,defender,C0M,True,active,fade,full,heavy,5648.79639,-4620.60791,R1C7,B7,B1,SE,Phantom
+2653976,c2440b95-ce02-4b30-aac7-ff1ffbcb80e9,Leviatán Esports,defender,Mazino,True,active,omen,damaged,none,5678.64453,-3748.81836,R2C7,B7,B2,SE,Shorty
+2653976,4ac2a86d-bb20-40dd-ac59-ef5b4a0d0f25,Leviatán Esports,defender,aspas,True,active,jett,full,heavy,2410.61841,2308.72168,R8C7,B7,B8,NE,Sheriff
+2653976,4ac2a86d-bb20-40dd-ac59-ef5b4a0d0f25,Leviatán Esports,defender,kiNgg,True,active,viper,full,heavy,2307.36157,1955.34033,R7C7,B7,B7,NE,Vandal
+2653976,4ac2a86d-bb20-40dd-ac59-ef5b4a0d0f25,Leviatán Esports,defender,C0M,True,active,sova,full,heavy,361.267822,1535.85742,R6C4,B4,B6,NW,Shorty
+2653977,d78544b9-d29f-4dea-b8df-eca35acd35d3,KRÜ Esports,defender,keznitdeuS,True,active,reyna,full,light,1555.61438,4302.38232,R8C6,B6,B8,NE,Vandal
+2653977,8913b6ef-a2bf-48a3-9516-ff831d0bb32d,KRÜ Esports,attacker,heat,True,active,gekko,full,heavy,2520.9043,5337.37549,R8C5,B5,B8,NE,Vandal
+2653978,0ca44b38-54c7-433b-8c67-d3edf7991274,NRG,defender,Marved,True,active,viper,full,heavy,7184.4624,-3773.67896,R5C8,B8,B5,NE,Melee
+2653978,0ca44b38-54c7-433b-8c67-d3edf7991274,NRG,defender,Ethan,True,active,omen,full,heavy,4384.03223,-5788.94775,R1C5,B5,B1,SE,Melee
+2653978,0ca44b38-54c7-433b-8c67-d3edf7991274,NRG,defender,crashies,True,active,skye,full,light,6339.73828,-5726.71,R1C7,B7,B1,SE,Melee
+2653978,0ca44b38-54c7-433b-8c67-d3edf7991274,NRG,defender,Victor,True,active,raze,full,heavy,7457.93848,-3845.7146,R5C8,B8,B5,NE,Sheriff
+2653978,7b96ee77-9af9-4348-b24d-254028cba8a2,NRG,attacker,Demon1,True,active,jett,damaged,light,3731.83032,5244.64,R8C2,B2,B8,NW,Vandal
+2653978,7b96ee77-9af9-4348-b24d-254028cba8a2,NRG,attacker,Ethan,True,active,yoru,full,heavy,3190.43628,4408.79492,R6C1,B1,B6,NW,Shorty
+2653978,7b96ee77-9af9-4348-b24d-254028cba8a2,NRG,attacker,Victor,True,active,cypher,full,light,3257.81641,5005.40234,R8C1,B1,B8,NW,Vandal
+2653979,8a61c304-f1a9-4773-9111-ab7b6bd406f8,Evil Geniuses,defender,Derrek,True,active,fade,full,heavy,7822.24219,6451.05469,R8C6,B6,B8,NE,Phantom
+2653979,8a61c304-f1a9-4773-9111-ab7b6bd406f8,Evil Geniuses,defender,Apoth,True,active,cypher,full,heavy,7063.23096,4950.5708,R7C5,B5,B7,NE,Phantom
+2653979,a38b7327-581a-4fde-9cc8-c8b9c41bc5f5,Cloud9,defender,moose,True,active,cypher,full,light,3928.84033,4277.02051,R7C8,B8,B7,NE,Sheriff
+2653979,a38b7327-581a-4fde-9cc8-c8b9c41bc5f5,Cloud9,defender,Runi,True,active,viper,damaged,none,1710.9563,2241.99194,R4C5,B5,B4,SE,Vandal
+2653979,a38b7327-581a-4fde-9cc8-c8b9c41bc5f5,Cloud9,defender,Xeppaa,True,active,skye,critical,none,1327.06531,2950.4707,R5C5,B5,B5,NE,Stinger
+2653979,32488820-9b98-428b-928c-0fc640077089,Cloud9,attacker,moose,True,active,cypher,full,heavy,4745.85742,-6081.34326,R3C6,B6,B3,SE,Phantom
+2653979,32488820-9b98-428b-928c-0fc640077089,Cloud9,attacker,vanity,True,active,omen,full,heavy,7432.42627,-7379.9668,R1C8,B8,B1,SE,Vandal
+2653979,32488820-9b98-428b-928c-0fc640077089,Cloud9,attacker,Runi,True,active,viper,full,light,6787.26514,-2660.51685,R8C8,B8,B8,NE,Vandal
+2653979,32488820-9b98-428b-928c-0fc640077089,Cloud9,attacker,Xeppaa,True,active,skye,full,light,6562.66943,-6620.63037,R2C8,B8,B2,SE,Phantom
+2653980,751ec5c5-e3bf-4e5d-8257-415f902b2c90,Sentinels,attacker,TenZ,True,active,omen,damaged,none,5573.44873,-5062.52344,R1C3,B3,B1,SW,Vandal
+2653980,751ec5c5-e3bf-4e5d-8257-415f902b2c90,Sentinels,attacker,Sacy,True,active,fade,full,heavy,4790.34375,-3061.46338,R3C1,B1,B3,SW,Vandal
+2653980,95712ade-7574-4291-b5be-d4b999a40032,Sentinels,defender,TenZ,True,active,gekko,full,heavy,11050.8008,-4960.09473,R6C5,B5,B6,NE,Vandal
+2653980,95712ade-7574-4291-b5be-d4b999a40032,Sentinels,defender,johnqt,True,active,viper,full,heavy,11297.9941,-5142.1,R6C6,B6,B6,NE,Phantom
+2653981,4d43b00d-bafd-401e-8a2a-a2b9bd516c06,LOUD (1),defender,Less,True,active,viper,full,heavy,12228.6133,3402.42749,R7C8,B8,B7,NE,Vandal
+2653981,712fb2e7-6dd2-487c-b20d-91a29fcb7f2b,Cloud9,defender,moose,True,active,killjoy,full,light,1262.52673,2184.87964,R6C2,B2,B6,NW,Vandal
+2653981,712fb2e7-6dd2-487c-b20d-91a29fcb7f2b,Cloud9,defender,vanity,True,active,viper,damaged,none,2136.58691,2226.21533,R6C5,B5,B6,NE,Phantom
+2653981,712fb2e7-6dd2-487c-b20d-91a29fcb7f2b,Cloud9,defender,Runi,True,active,sova,full,light,2185.65625,2741.0979,R7C5,B5,B7,NE,Vandal
+2653981,712fb2e7-6dd2-487c-b20d-91a29fcb7f2b,Cloud9,defender,Xeppaa,True,active,sage,full,heavy,780.87,1681.79358,R5C1,B1,B5,NW,Phantom
+2653981,6eb1d3d5-c083-4d95-b13f-4441c628e0a2,Cloud9,defender,moose,True,active,killjoy,full,light,6848.93701,-381.121643,R2C6,B6,B2,SE,Vandal
+2653982,70c15445-5f84-4c36-a44a-af848f6b8ae1,KRÜ Esports,defender,Shyy,True,active,killjoy,critical,none,6714.79736,3838.4,R6C6,B6,B6,NE,Vandal
+2653982,70c15445-5f84-4c36-a44a-af848f6b8ae1,KRÜ Esports,defender,Klaus,True,active,viper,damaged,light,7729.03516,4057.1145,R7C8,B8,B7,NE,Sheriff
+2653982,9cf7b90c-51fe-4d8e-aed0-808d7749973b,KRÜ Esports,attacker,Shyy,True,active,cypher,damaged,light,7186.72852,-3459.72534,R7C3,B3,B7,NW,Vandal
+2653982,9cf7b90c-51fe-4d8e-aed0-808d7749973b,KRÜ Esports,attacker,Klaus,True,active,sova,full,heavy,6305.78711,-4704.37354,R3C1,B1,B3,SW,Vandal
+2653982,9cf7b90c-51fe-4d8e-aed0-808d7749973b,KRÜ Esports,attacker,Melser,True,active,viper,full,heavy,7067.84131,-3191.04053,R7C2,B2,B7,NW,Vandal
+2653982,9cf7b90c-51fe-4d8e-aed0-808d7749973b,KRÜ Esports,attacker,heat,True,active,kay/o,damaged,none,6212.54688,-4070.79,R5C1,B1,B5,NW,Vandal
+2653983,e7039f62-34d5-4974-858c-c852677d3c4d,Leviatán Esports,attacker,aspas,True,active,raze,damaged,none,4139.96,4095.21558,R7C8,B8,B7,NE,Vandal
+2653983,e7039f62-34d5-4974-858c-c852677d3c4d,Leviatán Esports,attacker,tex,True,active,gekko,full,heavy,3928.83398,4144.99707,R7C8,B8,B7,NE,Vandal
+2653983,f0bf8623-a619-4d40-b7b2-e5a8662e533a,Leviatán Esports,attacker,tex,True,active,gekko,full,light,11062.709,1245.51489,R2C6,B6,B2,SE,Melee
+2653983,f0bf8623-a619-4d40-b7b2-e5a8662e533a,Leviatán Esports,attacker,kiNgg,True,active,viper,full,none,11395.9014,3939.61719,R7C6,B6,B7,NE,Vandal
+2653983,f0bf8623-a619-4d40-b7b2-e5a8662e533a,Leviatán Esports,attacker,Mazino,True,active,brimstone,full,light,12674.9775,744.259338,R1C8,B8,B1,SE,Stinger
+2653984,4ec0f1c0-dfbf-4533-8f86-5c7e8673e7ed,G2 Esports,defender,leaf,True,active,killjoy,full,heavy,6867.55176,4301.45654,R7C7,B7,B7,NE,Vandal
+2653984,2e8e786e-d906-49c1-b5c3-a76592fe78cb,G2 Esports,attacker,icy,True,active,gekko,full,heavy,943.401672,244.426682,R2C7,B7,B2,SE,Vandal
+2653984,2e8e786e-d906-49c1-b5c3-a76592fe78cb,G2 Esports,attacker,leaf,True,active,killjoy,full,heavy,1306.61621,2107.87476,R8C7,B7,B8,NE,Melee
+2653984,2e8e786e-d906-49c1-b5c3-a76592fe78cb,G2 Esports,attacker,valyn,True,active,harbor,full,heavy,1255.99597,-278.771362,R1C7,B7,B1,SE,Phantom
+2653984,2e8e786e-d906-49c1-b5c3-a76592fe78cb,G2 Esports,attacker,trent,True,active,sova,damaged,none,-2452.15308,1050.10852,R5C4,B4,B5,NW,Vandal
+2653984,2e8e786e-d906-49c1-b5c3-a76592fe78cb,G2 Esports,attacker,JonahP,True,active,viper,full,heavy,3015.62549,-127.760323,R1C8,B8,B1,SE,Phantom
+2653985,d10dd165-9ffc-4add-9093-2de0cab3e8b5,100 Thieves,attacker,bang,True,active,viper,full,heavy,9473.31836,3333.19019,R6C4,B4,B6,NW,Sheriff
+2653985,d10dd165-9ffc-4add-9093-2de0cab3e8b5,100 Thieves,attacker,Cryo,True,active,brimstone,critical,none,10568.9941,3028.21606,R6C6,B6,B6,NE,Vandal
+2653985,d10dd165-9ffc-4add-9093-2de0cab3e8b5,100 Thieves,attacker,Asuna,True,active,raze,damaged,none,7163.77734,1042.48474,R1C1,B1,B1,SW,Sheriff
+2653985,a6da2cbb-8bbd-43bf-9225-8edc4ca9fc4a,100 Thieves,attacker,bang,True,active,omen,full,heavy,4648.78809,-6102.69043,R7C4,B4,B7,NW,Phantom
+2653985,a6da2cbb-8bbd-43bf-9225-8edc4ca9fc4a,100 Thieves,attacker,Boostio,True,active,killjoy,full,heavy,5292.50146,-7945.73291,R2C6,B6,B2,SE,Phantom
+2653985,a6da2cbb-8bbd-43bf-9225-8edc4ca9fc4a,100 Thieves,attacker,Cryo,True,active,jett,full,heavy,4829.34424,-6009.98633,R7C5,B5,B7,NE,Shorty
+2653985,a6da2cbb-8bbd-43bf-9225-8edc4ca9fc4a,100 Thieves,attacker,Asuna,True,active,kay/o,critical,none,5813.24365,-7738.70068,R3C8,B8,B3,SE,Vandal
+2653986,875600d4-44e3-4de6-9fcd-6e922d57763a,Sentinels,attacker,TenZ,True,active,omen,damaged,light,5871.12451,-391.829407,R1C2,B2,B1,SW,Vandal
+2653986,875600d4-44e3-4de6-9fcd-6e922d57763a,Sentinels,attacker,Zellsis,True,active,killjoy,full,light,5864.49463,-493.198303,R1C2,B2,B1,SW,Phantom
+2653986,ed91744d-7be5-45a0-b0c3-342374e3d930,Evil Geniuses,attacker,Derrek,True,active,gekko,damaged,light,9908.09082,2815.11499,R8C7,B7,B8,NE,Shorty
+2653986,ed91744d-7be5-45a0-b0c3-342374e3d930,Evil Geniuses,attacker,Apoth,True,active,brimstone,full,light,8814.74316,761.367126,R5C4,B4,B5,NW,Vandal
+2653986,37beb0e4-fd15-4166-a427-6c79b1186b8f,Evil Geniuses,attacker,Derrek,True,active,fade,full,light,-1929.70618,-4678.44336,R1C1,B1,B1,SW,Vandal
+2653987,e9715d1a-1595-4f67-a018-eadaaee55a8c,NRG,defender,Demon1,True,active,jett,full,heavy,7699.2583,-7494.84375,R2C7,B7,B2,SE,Operator
+2653987,e9715d1a-1595-4f67-a018-eadaaee55a8c,NRG,defender,Marved,True,active,viper,damaged,light,7516.89111,-6956.51953,R3C7,B7,B3,SE,Shorty
+2653987,644d755d-6b64-49aa-ab4e-cbc4515003f7,NRG,attacker,Marved,True,active,viper,full,heavy,7621.61377,-1248.68604,R8C5,B5,B8,NE,Vandal
+2653987,644d755d-6b64-49aa-ab4e-cbc4515003f7,NRG,attacker,Ethan,True,active,yoru,damaged,light,9691.55078,-2318.31665,R7C8,B8,B7,NE,Vandal
+2653987,644d755d-6b64-49aa-ab4e-cbc4515003f7,NRG,attacker,crashies,True,active,sova,full,heavy,6503.68604,-3569.03394,R4C2,B2,B4,SW,Vandal
+2653988,bd70cd3b-b0f8-466b-8dd4-5fbd72d275dd,Leviatán Esports,attacker,aspas,True,active,jett,damaged,none,5242.35693,3419.92725,R5C1,B1,B5,NW,Vandal
+2653988,8e73ed4a-c7b3-47d7-8cd6-0797f74b07e1,G2 Esports,attacker,icy,True,active,gekko,full,heavy,3036.15942,1376.29041,R6C8,B8,B6,NE,Shorty
+2653988,7f819353-6fd8-45c1-b499-2017618cdce6,Leviatán Esports,defender,aspas,True,active,raze,full,light,6274.28467,2409.78882,R5C4,B4,B5,NW,Vandal
+2653988,7f819353-6fd8-45c1-b499-2017618cdce6,Leviatán Esports,defender,tex,True,active,killjoy,full,heavy,8278.32422,2045.46436,R5C8,B8,B5,NE,Vandal
+2653988,7f819353-6fd8-45c1-b499-2017618cdce6,Leviatán Esports,defender,kiNgg,True,active,viper,critical,none,5743.72119,1536.5531,R4C2,B2,B4,SW,Vandal
+2653988,7f819353-6fd8-45c1-b499-2017618cdce6,Leviatán Esports,defender,Mazino,True,active,omen,full,light,5046.64355,-623.659119,R1C1,B1,B1,SW,Phantom
+2653989,7ee9f9ea-2133-4016-a205-5383aa6018c5,KRÜ Esports,attacker,keznitdeuS,True,active,raze,full,heavy,4569.90137,-7539.54639,R4C3,B3,B4,SW,Vandal
+2653989,7ee9f9ea-2133-4016-a205-5383aa6018c5,KRÜ Esports,attacker,Klaus,True,active,cypher,full,light,3161.28369,-8318.75488,R2C1,B1,B2,SW,Vandal
+2653989,7ee9f9ea-2133-4016-a205-5383aa6018c5,KRÜ Esports,attacker,Melser,True,active,omen,full,light,5380.82471,-6709.9458,R7C4,B4,B7,NW,Vandal
+2653989,4333af9f-8a31-4e40-b362-4baf5d13e79a,KRÜ Esports,attacker,Shyy,True,active,killjoy,full,heavy,5830.45,-6642.43164,R4C6,B6,B4,SE,Vandal
+2653989,4333af9f-8a31-4e40-b362-4baf5d13e79a,KRÜ Esports,attacker,Klaus,True,active,sova,full,heavy,6812.21436,-6062.88574,R5C8,B8,B5,NE,Vandal
+2653989,4333af9f-8a31-4e40-b362-4baf5d13e79a,KRÜ Esports,attacker,Melser,True,active,omen,damaged,none,6037.83203,-6009.16748,R5C6,B6,B5,NE,Vandal
+2653989,4333af9f-8a31-4e40-b362-4baf5d13e79a,KRÜ Esports,attacker,heat,True,active,kay/o,full,heavy,6803.37305,-7853.08887,R2C8,B8,B2,SE,Vandal
+2653990,f9b8a224-54f6-44bc-b5c8-7695581c2236,G2 Esports,attacker,trent,True,active,sova,full,heavy,-7279.16748,-407.7724,R1C2,B2,B1,SW,Sheriff
+2653990,198db0d6-3b2f-461d-8853-e5ad3e20beea,G2 Esports,defender,icy,True,active,raze,full,heavy,10174.5098,2891.59741,R6C6,B6,B6,NE,Phantom
+2653990,198db0d6-3b2f-461d-8853-e5ad3e20beea,G2 Esports,defender,leaf,True,active,viper,full,heavy,7955.01855,878.783447,R2C2,B2,B2,SW,Phantom
+2653990,198db0d6-3b2f-461d-8853-e5ad3e20beea,G2 Esports,defender,valyn,True,active,brimstone,damaged,none,9946.91,1695.11499,R3C6,B6,B3,SE,Phantom
+2653990,198db0d6-3b2f-461d-8853-e5ad3e20beea,G2 Esports,defender,trent,True,active,gekko,full,light,10145.8916,2350.45581,R5C6,B6,B5,NE,Phantom
+2653990,198db0d6-3b2f-461d-8853-e5ad3e20beea,G2 Esports,defender,JonahP,True,active,skye,full,heavy,10714.6494,2354.64502,R5C7,B7,B5,NE,Melee
+2653991,ec8e3981-a012-4314-a22b-4fd68152de86,LOUD (1),defender,cauanzin,True,active,fade,full,heavy,9590.18652,2989.4978,R4C8,B8,B4,SE,Vandal
+2653991,ec8e3981-a012-4314-a22b-4fd68152de86,LOUD (1),defender,Less,True,active,viper,full,light,8783.06055,5987.21826,R8C8,B8,B8,NE,Vandal
+2653991,50d6dab9-3855-4732-a1f6-a8fdd27984d8,Sentinels,attacker,Zellsis,True,active,killjoy,full,light,-7178.08691,2288.0813,R5C1,B1,B5,NW,Vandal
+2653991,50d6dab9-3855-4732-a1f6-a8fdd27984d8,LOUD (1),defender,qck1,True,active,jett,full,heavy,-6793.2832,4293.57129,R8C2,B2,B8,NW,Shorty
+2653991,50d6dab9-3855-4732-a1f6-a8fdd27984d8,LOUD (1),defender,Less,True,active,viper,full,heavy,-7618.55664,3269.12378,R7C1,B1,B7,NW,Vandal
+2653991,50d6dab9-3855-4732-a1f6-a8fdd27984d8,LOUD (1),defender,tuyz,True,active,harbor,full,heavy,-8006.49121,3263.91406,R7C1,B1,B7,NW,Vandal
+2653992,20321a46-2e96-4564-bef9-08d110c326f3,FURIA,defender,havoc,True,active,killjoy,full,none,-3173.1272,-7318.75293,R3C1,B1,B3,SW,Phantom
+2653992,f43e3dfb-228f-46b9-97e4-655018b94e25,Cloud9,attacker,moose,True,active,killjoy,full,heavy,4768.72412,-4066.97632,R1C5,B5,B1,SE,Sheriff
+2653992,f43e3dfb-228f-46b9-97e4-655018b94e25,Cloud9,attacker,vanity,True,active,omen,full,heavy,7810.66162,-999.560242,R4C8,B8,B4,SE,Vandal
+2653992,f43e3dfb-228f-46b9-97e4-655018b94e25,Cloud9,attacker,OXY,True,active,raze,damaged,none,6470.55078,-3139.48096,R2C7,B7,B2,SE,Vandal
+2653992,f43e3dfb-228f-46b9-97e4-655018b94e25,Cloud9,attacker,Runi,True,active,viper,full,heavy,7080.7417,-4576.70264,R1C7,B7,B1,SE,Vandal
+2653992,00f2bb70-21fe-42fd-93bc-404a92eb4ccf,Cloud9,attacker,Xeppaa,True,active,skye,full,light,8725.68945,920.138855,R1C1,B1,B1,SW,Phantom
+2653993,230795cf-6b93-4a9e-998c-6ec401fe53b7,Evil Geniuses,attacker,JAWGEMO,True,active,jett,full,light,6256.53076,-5497.05664,R8C8,B8,B8,NE,Melee
+2653993,a607a54a-4dcd-42d2-b716-e716071bc465,NRG,defender,Ethan,True,active,breach,full,light,5337.05518,-3719.12622,R1C2,B2,B1,SW,Vandal
+2653993,a607a54a-4dcd-42d2-b716-e716071bc465,NRG,defender,crashies,True,active,gekko,full,heavy,9291.45,3397.92603,R7C8,B8,B7,NE,Vandal
+2653993,a607a54a-4dcd-42d2-b716-e716071bc465,NRG,defender,Victor,True,active,raze,damaged,none,5335.40332,-3509.77393,R2C2,B2,B2,SW,Vandal
+2653993,9efcca96-5b7c-4d2d-9076-90e962039aca,Evil Geniuses,defender,Derrek,True,active,fade,full,light,862.275085,-5042.04492,R1C4,B4,B1,SW,Shorty
+2653994,39d7a453-6d9a-4133-ba00-ffcce4adfcf3,KRÜ Esports,defender,keznitdeuS,True,active,raze,full,light,558.000244,4207.14502,R6C4,B4,B6,NW,Shorty
+2653994,39d7a453-6d9a-4133-ba00-ffcce4adfcf3,KRÜ Esports,defender,Shyy,True,active,cypher,damaged,none,2838.36157,1771.9729,R1C8,B8,B1,SE,Vandal
+2653994,70b2de4e-71ed-4827-b1fa-aefe613a9a04,100 Thieves,attacker,eeiu,True,active,sova,critical,none,5479.28857,7155.06348,R8C3,B3,B8,NW,Vandal
+2653994,70b2de4e-71ed-4827-b1fa-aefe613a9a04,100 Thieves,attacker,Cryo,True,active,jett,full,heavy,5579.58301,3993.12793,R3C3,B3,B3,SW,Vandal
+2653994,70b2de4e-71ed-4827-b1fa-aefe613a9a04,100 Thieves,attacker,Asuna,True,active,kay/o,damaged,none,4152.00781,5283.78223,R5C1,B1,B5,NW,Vandal
+2653994,27dac0cc-8c46-4985-b4e1-7097f8db90d6,KRÜ Esports,defender,Klaus,True,active,cypher,full,heavy,2585.04468,-8152.37451,R1C8,B8,B1,SE,Phantom
+2653994,27dac0cc-8c46-4985-b4e1-7097f8db90d6,KRÜ Esports,defender,Melser,True,active,omen,full,heavy,541.914185,-5057.46533,R5C1,B1,B5,NW,Vandal
+2653994,27dac0cc-8c46-4985-b4e1-7097f8db90d6,KRÜ Esports,defender,heat,True,active,skye,critical,none,1226.19897,-2441.69482,R8C3,B3,B8,NW,Vandal
